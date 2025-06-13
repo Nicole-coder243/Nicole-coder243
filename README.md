@@ -1,4 +1,4 @@
-Hello there, welcome to my GitHub profile. Check out the pinned projects and website page for more.
+Hello there, welcome to my GitHub profile. Check out the pinned projects and  Codepen link .
 
 <!---
 Nicole-coder243/Nicole-coder243 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
