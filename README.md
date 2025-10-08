@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Makayla! 
+# 👋🏾 Hi, I’m Makayla! 
 
 ## 🚀 Digital Operations Assistant & Web Manager  
 Welcome to my GitHub! I’m passionate about designing and building for the web—especially in the fast-paced world of e-commerce. My journey started with curiosity, self-taught lessons from videos and articles, and evolved into a deep love for crafting digital experiences.
